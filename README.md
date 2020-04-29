@@ -1,4 +1,4 @@
-# Get-started Repository
+# Git-started Repository
 with Github
 
 ## starting point
