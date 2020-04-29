@@ -1,2 +1,2 @@
-# gettting-_started
+# gettting-started
 starting point
