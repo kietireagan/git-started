@@ -1,2 +1,0 @@
-# gettting-started
-starting point
