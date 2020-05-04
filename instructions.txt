@@ -1,1 +1,6 @@
+instructions for deployting this site to the server
 
+
+installations details:
+
+content goes here
